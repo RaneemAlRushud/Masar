@@ -42,6 +42,12 @@
   </p>
    
   <h1> <li> 4. Technology Stack </li> </h1>
+  <li> AWS source control services (CodeCommit) </li>
+  <li> MAMP </li>
+  <li> PHP, javaScript and Vapor as server sides </li>
+  <li> JWT </li>
+  <li> Relational DB </li>
+  <li> Supported APIs for insighting and gathreing the dataset </li>
 
 
  
