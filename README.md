@@ -42,6 +42,7 @@
   </p>
    
   <h1> <li> 4. Technology Stack </li> </h1>
+  <li> Swift (UIkit and SwiftUI frameworks; based on the functionality utilities)</li>
   <li> AWS source control services (CodeCommit) </li>
   <li> MAMP </li>
   <li> PHP, javaScript and Vapor as server sides </li>
